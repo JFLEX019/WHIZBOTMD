@@ -27,7 +27,7 @@ async (m) => {
     text += `🪀 \`\`\`You can create the bot and see the deploy methods from the website below.\`\`\` 👇\n\n`;
     text += `🌏 *Website:* \`\`\`https://chat.whatsapp.com/Ex49J26O8AP6YbK459TBPL\`\`\`\n\n`;
     text += `👨‍💻 *Owners:* \`\`\`Unknownkid FT 𝐉𝐅𝐋𝐄𝐗\`\`\`\n\n`;
-    text += `🎡 *Github:*  \`\`\`https://github.com/JFLEX019/WHIZBOTMD\`\`\`\n\n`;
+    text += `🎡 *Github:*  \`\`\`https://github.com/WHIZBOT1/WHIZBOTMD\`\`\`\n\n`;
     text += `🪩 *Our community:* \`\`\`https://chat.whatsapp.com/Ex49J26O8AP6YbK459TBPL\`\`\`\n\n`;
     text += `🪄 *Our channel:* \`\`\`https://chat.whatsapp.com/Ex49J26O8AP6YbK459TBPL\`\`\`\n\n`;
 
