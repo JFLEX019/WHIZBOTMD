@@ -25,13 +25,13 @@ async (m) => {
     text += `💡 \`\`\`Various things can be downloaded from this bot. Also, managing groups, making logos & edit-images in different ways, searching for different things and getting information and more futures included.\`\`\`\n\n`;
     text += `⚠️ \`\`\`Also, if your Whatsapp account gets damaged or banned by using this, we are not responsible and you should take responsibility for it.\`\`\`\n\n`;
     text += `🪀 \`\`\`You can create the bot and see the deploy methods from the website below.\`\`\` 👇\n\n`;
-    text += `🌏 *Website:* \`\`\`https://chat.whatsapp.com/D4pphf7W3NbCDghqG0SJyz\`\`\`\n\n`;
-    text += `👨‍💻 *Owners:* \`\`\`Unknownkid FT Jflex\`\`\`\n\n`;
-    text += `🎡 *Github:*  \`\`\`https://github.com/WHIZBOT1/WHIZBOTMD\`\`\`\n\n`;
-    text += `🪩 *Our community:* \`\`\`https://chat.whatsapp.com/D4pphf7W3NbCDghqG0SJyz\`\`\`\n\n`;
-    text += `🪄 *Our channel:* \`\`\`https://whatsapp.com/channel/0029VacWsSl3LdQOmWZrBj0l\`\`\`\n\n`;
+    text += `🌏 *Website:* \`\`\`https://chat.whatsapp.com/Ex49J26O8AP6YbK459TBPL\`\`\`\n\n`;
+    text += `👨‍💻 *Owners:* \`\`\`Unknownkid FT 𝐉𝐅𝐋𝐄𝐗\`\`\`\n\n`;
+    text += `🎡 *Github:*  \`\`\`https://github.com/JFLEX019/WHIZBOTMD\`\`\`\n\n`;
+    text += `🪩 *Our community:* \`\`\`https://chat.whatsapp.com/Ex49J26O8AP6YbK459TBPL\`\`\`\n\n`;
+    text += `🪄 *Our channel:* \`\`\`https://chat.whatsapp.com/Ex49J26O8AP6YbK459TBPL\`\`\`\n\n`;
 
-    const imageUrl = "https://telegra.ph/file/2f1c2e0cc22214a123719.jpg";
+    const imageUrl = "https://telegra.ph/file/0e77de30ced4697751480.jpg";
     
     await m.reply(text, { sendImage: true, image: imageUrl });
   } catch (error) {
